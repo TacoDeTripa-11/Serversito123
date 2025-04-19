@@ -224,3 +224,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [19Apr2025 09:17:34.062] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
 [19Apr2025 09:17:38.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTaco9701 lost connection: Disconnected
 [19Apr2025 09:17:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTaco9701 left the game
+[19Apr2025 09:28:36.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTaco9701[/127.166.206.173:48129] logged in with entity id 1548 at (2.300000011920929, 62.424830705736895, -199.69999998807907)
+[19Apr2025 09:28:36.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTaco9701 joined the game
+[19Apr2025 09:28:36.044] [Server thread/INFO] [Jade/]: Syncing config to DonTaco9701 (502d4a00-7f64-3373-9acb-01a1972504c9)
+[19Apr2025 09:28:36.999] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Apr2025 09:28:37.045] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: ESM - Init Rideable EntityEntity_Type and Jockey Lists...
+[19Apr2025 09:28:37.046] [Server thread/INFO] [com.esm.nightmare.MobBehavs.SpawnRideableMob/]: Spawning Jockey at: BlockPos{x=-23, y=24, z=-190}
+[19Apr2025 09:28:44.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTaco9701 lost connection: Disconnected
+[19Apr2025 09:28:44.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTaco9701 left the game
